@@ -18,7 +18,7 @@
 ## 🚀 Foco Atual
 
 - ✅ Solidificando JavaScript e Lógica de Programação
-- 🔄 React (em breve)
+- 🔄 React e Typescript(em breve)
 - 📁 Construindo portfólio no GitHub
 
 ---
@@ -41,9 +41,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dev-mkscruz&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mkscruz&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff"/>
+  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-mkscruz&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-mkscruz&theme=github_dark"/>
 
 <br/>
 
@@ -52,17 +52,19 @@
 </div>
 
 ---
+<div align="center">
 
 ## 📬 Onde me encontrar
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](SEU_LINK_AQUI)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_LINK_AQUI)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](SEU_LINK_AQUI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/morty.koda)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dimarco_52?utm_source=qr&igsh=YmFzanlrc2NwcDZh)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DiMarco071)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcos-da-cruz-virgens-59350936a)
 
 ---
 
-<div align="center">
+
 
 ⚡ Feito com dedicação por Marcos Da Cruz
 
